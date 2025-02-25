@@ -4,8 +4,17 @@
 Version Control is a system that tracks changes to a codebase over time allowing multiple users to collaborate without overriding each other's work. It also allows backtracking if needed, ie reverting to previous versions. GitHub is popular because; it’s built on Git, a distributed version control system, it provides cloud storage for your code, so that progress is not lost, it enables collaboration through branches, pull requests, and code reviews. Version Control helps to maintain project integrity by preventing accidental overwrites or data loss and tracking who made what changes and when. It also encourages structured collaboration through branching and merging.
 
 ## 2. Describe the process of setting up a new repository on GitHub. What are the key steps, and what are some of the important decisions you must make during this process?
+The Steps to Create a Repository:
+step-1: Go to github.com and create an account or log in.
+step-2: Click on New Repository.
+step-3: Choose a repository name.
+step-4: Set visibility as either Public or Private.
+step-5: Optionally, add a README.md, .gitignore, and license.
+step-6: Click Create Repository.
+Some key decisions made were choosing a name for the repository, deciding wether to make the repo Public (Open-Source) or Private (restricted access)
 
 ## 3. Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
+A README file is very important in a GitHub repo because it is the first thing visitors see when they visit a repository. It should contain info about the project and instructions on how to use it alongside it's license. It contributes to effecive collaboratio as it helps newcomers understand the project, helps the author set expectations and acts as a reference for the project.
 
 ## 4. Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
 
